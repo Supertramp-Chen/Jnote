@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aaea916f-c699-492f-9ba2-4fde7f2ef299" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ECNZW836uM1LXff6mxyqtMscsV" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HTTP-java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86183\Desktop\Jnote\web-front-end\png" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/web-front-end/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript 调试.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="aaea916f-c699-492f-9ba2-4fde7f2ef299" name="变更" comment="" />
+      <created>1662095661828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662095661828</updated>
+      <workItem from="1662095662976" duration="7539000" />
+      <workItem from="1662109915298" duration="3487000" />
+      <workItem from="1662135876452" duration="216000" />
+      <workItem from="1662136115081" duration="140000" />
+      <workItem from="1662136556704" duration="328000" />
+      <workItem from="1662174804392" duration="134000" />
+      <workItem from="1662175001190" duration="199000" />
+      <workItem from="1662175213265" duration="825000" />
+      <workItem from="1662176106849" duration="11556000" />
+      <workItem from="1662202278621" duration="75000" />
+      <workItem from="1662262375671" duration="415000" />
+      <workItem from="1662262807326" duration="200000" />
+      <workItem from="1662263036434" duration="44000" />
+      <workItem from="1662280113110" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

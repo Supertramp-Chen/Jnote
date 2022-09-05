@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exception.iml" filepath="$PROJECT_DIR$/.idea/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fix-exception-handling/fix-exception-handling.iml" filepath="$PROJECT_DIR$/fix-exception-handling/fix-exception-handling.iml" />
+    </modules>
+  </component>
+</project>
