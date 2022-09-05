@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaea916f-c699-492f-9ba2-4fde7f2ef299" name="变更" comment="" />
+    <list default="true" id="aaea916f-c699-492f-9ba2-4fde7f2ef299" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/../HTTP-java/read-github-pull-requests" beforeDir="false" afterPath="$PROJECT_DIR$/../HTTP-java/read-github-pull-requests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command-line/java-fork-process" beforeDir="false" afterPath="$PROJECT_DIR$/../command-line/java-fork-process" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven/resolve-package-conflict" beforeDir="false" afterPath="$PROJECT_DIR$/../maven/resolve-package-conflict" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis-in-action" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis-in-action" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -28,13 +36,17 @@
     </option>
   </component>
   <component name="ProjectId" id="2ECNZW836uM1LXff6mxyqtMscsV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HTTP-java" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Project.color": "621462",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\86183\Desktop\Jnote\web-front-end\png" />
@@ -82,6 +94,7 @@
       <workItem from="1662262807326" duration="200000" />
       <workItem from="1662263036434" duration="44000" />
       <workItem from="1662280113110" duration="64000" />
+      <workItem from="1662373976895" duration="18000" />
     </task>
     <servers />
   </component>
